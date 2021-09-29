@@ -10,8 +10,8 @@
                 <!-- desktop -->
                 <v-img
                  :src="'https:'+data[0].fields.thumbnail.fields.file.url"
-                  max-height="50%"
-                  max-width="50%"
+                  max-height="30%"
+                  max-width="30%"
                   contain
                   class="hidden-xs-only"
                 />

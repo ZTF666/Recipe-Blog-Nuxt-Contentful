@@ -90,3 +90,5 @@ sw.*
 *.swp
 /content
 /store
+/pages/test.vue
+/pages/garbagio.vue
