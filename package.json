@@ -14,7 +14,7 @@
     "contentful": "^9.1.6",
     "core-js": "^3.20.3",
     "nuxt": "^2.15.7",
-    "vuetify": "^2.6.2"
+    "vuetify": "^2.6.3"
   },
   "devDependencies": {
     "@nuxtjs/dotenv": "^1.4.1",
