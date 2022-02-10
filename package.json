@@ -11,7 +11,7 @@
   "dependencies": {
     "@nuxt/content": "^1.15.1",
     "@nuxtjs/axios": "^5.13.6",
-    "contentful": "^9.1.7",
+    "contentful": "^9.1.8",
     "core-js": "^3.21.0",
     "nuxt": "^2.15.7",
     "vuetify": "^2.6.3"
